@@ -1,4 +1,4 @@
 # Tesla Clone
 Components Used:
-*Flatlist
-*StyleSheet
+* Flatlist
+* StyleSheet
